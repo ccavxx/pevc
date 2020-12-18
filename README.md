@@ -1,6 +1,6 @@
 # PEVC
 
-This is a python project to scrape and show the co-investment networks of PE/VC investors in China from 2010 to 2019.
+This is a python project to scrape and visualize the co-investment networks of PE/VC investors in China from 2010 to 2019.
 
 
 ## Structure
