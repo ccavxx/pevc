@@ -1,0 +1,561 @@
+chinese,english,type
+战略投资,Strategic,series
+A轮,A,series
+天使轮,Angel,series
+并购,Merge,series
+新三板定增,NEEQ Private Offering,series
+Pre-A,Pre-A,series
+B轮,B,series
+IPO,IPO,series
+A+轮,A+,series
+C轮,C,series
+股权转让,Transfer of Equity,series
+上市公司定增,Listed Private Offering,series
+种子轮,Seed,series
+B+轮,B+,series
+D轮,D,series
+新三板挂牌,NEEQ Listed,series
+未披露,Undisclosed,series
+Pre-B,Pre-B,series
+C+轮,C+,series
+Pre-IPO,Pre-IPO,series
+债权融资,Debt,series
+D+轮,D+,series
+Pre-C,Pre-C,series
+E轮,E,series
+F轮,F,series
+不明确,Unspecified,series
+E+轮,E+,series
+Pre-D,Pre-D,series
+上市（非IPO）,Listed (non-IPO),series
+F+轮,F+,series
+IDG资本,IDG,investor_name
+红杉资本中国基金,Sequoia,investor_name
+经纬中国,Matrix Partners,investor_name
+真格基金,ZhenFund,investor_name
+深创投,Shenzhen Capital Group,investor_name
+腾讯投资,Tencent,investor_name
+君联资本,Legend,investor_name
+达晨创投,Fortune,investor_name
+顺为资本,Shun Wei,investor_name
+创新工场,Sinovation,investor_name
+英诺天使基金,Inno Angel,investor_name
+启明创投,Qi Ming,investor_name
+晨兴资本,Morningside,investor_name
+险峰（K2VC）,K2VC,investor_name
+东方富海,Oriental Fortune,investor_name
+北极光创投,Northern Light,investor_name
+同创伟业,Cowin,investor_name
+梅花创投,Plum,investor_name
+联创永宣,New Margin,investor_name
+赛富投资基金,SAIF,investor_name
+德同资本,De Tong,investor_name
+高榕资本,Gao Rong,investor_name
+海通开元,Haitong Kaiyuan,investor_name
+华创资本,China Growth,investor_name
+高瓴资本,Hillhouse,investor_name
+SIG海纳亚洲创投基金,SIG,investor_name
+联想之星,Legend Start,investor_name
+源码资本,Source Code,investor_name
+GGV纪源资本,GGV,investor_name
+软银中国,Softbank,investor_name
+九合创投,Unity,investor_name
+京东数科,JD Digits,investor_name
+松禾资本,Green Pine,investor_name
+鼎晖投资,CDH,investor_name
+DCM中国,DCM,investor_name
+金沙江创投,GSR,investor_name
+东方证券,Dongfang Securities,investor_name
+中信证券,CITIC,investor_name
+峰瑞资本,Frees Fund,investor_name
+天星资本,Tian Xing,investor_name
+涌铧投资,Yong Hua,investor_name
+贝塔斯曼亚洲投资基金,BAI,investor_name
+CBC宽带资本,CBC,investor_name
+启赋资本,Qi Fu,investor_name
+毅达资本,Addor,investor_name
+中科招商,CSC Group,investor_name
+光速中国,Light Speed,investor_name
+国泰君安,Guotai Junan,investor_name
+金石投资,Gold Stone,investor_name
+信中利资本,Chinaequity,investor_name
+小米科技,Xiao Mi,investor_name
+元璟资本,Vision,investor_name
+蓝驰创投,Blue Run,investor_name
+清科创投,Zero2IPO,investor_name
+戈壁创投,Gobi,investor_name
+阿里巴巴,Alibaba,investor_name
+广发信德,Guang Fa,investor_name
+平安创投,Ping An,investor_name
+明势资本,Future,investor_name
+合力投资,Empower,investor_name
+策源创投,Ce Yuan,investor_name
+华盖资本,Hua Gai,investor_name
+火山石资本,Volcanics,investor_name
+景林投资,Greenwoods,investor_name
+基石资本,Stone,investor_name
+云启资本,Yun Qi,investor_name
+云锋基金,Yun Feng,investor_name
+华映资本,Merdian,investor_name
+青松基金,Qing Song,investor_name
+线性资本,Linear,investor_name
+联想创投,Lenovo,investor_name
+祥峰投资,Vertex,investor_name
+分享投资,Share,investor_name
+九鼎投资,Jiuding,investor_name
+元禾原点,Oriza,investor_name
+国中创投,Guo Zhong,investor_name
+成为资本,Chengwei,investor_name
+前海母基金,Qian Hai FoF,investor_name
+天图投资,Tian Tu,investor_name
+挚信资本,Trust Bridge,investor_name
+普华资本,Puhua,investor_name
+百度投资并购部,Baidu M&A,investor_name
+创东方投资,Chuang Dong Fang,investor_name
+愉悦资本,Joy,investor_name
+丰厚资本,Feng Hou,investor_name
+中金公司,CICC,investor_name
+奇虎360,Qihu 360,investor_name
+国信证券,Guosen,investor_name
+中国风险投资,C-VC,investor_name
+百度风投,Baidu VC,investor_name
+银杏谷资本,Yin Xing Gu,investor_name
+老鹰基金,Eagles,investor_name
+蚂蚁金服,Ant Finance,investor_name
+好未来战略投资部,TAL Education,investor_name
+清控银杏,THC,investor_name
+浙商创投,Zhe Shang,investor_name
+阿米巴资本,Ameba,investor_name
+盛景嘉成,Sheng Jing,investor_name
+天使湾创投,Tisiwi,investor_name
+娱乐工场,Entertainment,investor_name
+复星锐正资本,Fosun Ruizheng,investor_name
+中科创星,Zhongke Chuangxing,investor_name
+易方达基金,E Fund,investor_name
+和君资本,Hejun,investor_name
+招商局资本,China Merchants Capital,investor_name
+常春藤资本,Ivy,investor_name
+国科嘉和,Guoke Jiahe,investor_name
+新浪微博基金,Weibo,investor_name
+红点创投,Red Dot,investor_name
+如山资本,Rushan,investor_name
+申万宏源证券,Shenwan Hongyuan,investor_name
+建设银行,CCB,investor_name
+天堂硅谷,Paradise Silicon Valley,investor_name
+复星集团,Fosun Group,investor_name
+伽利略资本,Galileo Capital,investor_name
+兴业证券,Industrial Securities,investor_name
+金浦投资,Gimpo Investment,investor_name
+天风证券,Tianfeng Securities,investor_name
+天使投资人薛蛮子,Charles Xue,investor_name
+弘道资本,Hongdao Capital,investor_name
+盈动资本,Profit Capital,investor_name
+鼎锋资产,Dingfeng Assets,investor_name
+凯鹏华盈,Kai Peng Huaying,investor_name
+华平投资,Warburg Pincus Investment,investor_name
+启迪之星,Enlightenment Star,investor_name
+PreAngel,PreAngel,investor_name
+泰有基金,Thai Fund,investor_name
+赛伯乐投资,Cybernaut Investment,investor_name
+华睿投资,Huarui Investment,investor_name
+昆仲资本,Kunzhong Capital,investor_name
+华泰证券,Huatai Securities,investor_name
+极客帮创投,Geek Help Venture Capital,investor_name
+微光创投,Microlight Ventures,investor_name
+辰海资本,Chenhai Capital,investor_name
+天使投资人王刚,Angel Investor Wang Gang,investor_name
+隆领投资,Longling Investment,investor_name
+天使汇,Angel Exchange,investor_name
+国金投资,State Finance Investment,investor_name
+招商证券,China Merchants Securities,investor_name
+源星资本,Origin Capital,investor_name
+集结号资本,Assembly capital,investor_name
+朗玛峰创投,Mount Langma Ventures,investor_name
+力合创投,Lihe Ventures,investor_name
+天风天睿,Tianfeng Tianrui,investor_name
+中信资本,CITIC Capital,investor_name
+清流资本,Clear Flow Capital,investor_name
+广发证券,GF Securities,investor_name
+光信资本,Guangxin Capital,investor_name
+荷多资本,Hodor Capital,investor_name
+达泰资本,Datai Capital,investor_name
+暾澜投资,Tunlan Investment,investor_name
+国发创投,State Development Ventures,investor_name
+华兴资本,China Renaissance Capital,investor_name
+头头是道投资基金,Daotou Investment Fund,investor_name
+金沙江联合资本,Sands River United Capital,investor_name
+光大证券,Everbright Securities,investor_name
+淡马锡,Temasek,investor_name
+光大控股,Everbright Holdings,investor_name
+农银国际,ABC International,investor_name
+礼来亚洲基金,Eli Lilly Asia Fund,investor_name
+中路资本,Zhonglu Capital,investor_name
+银河证券,Galaxy Securities,investor_name
+国科投资,Guoke Investment,investor_name
+中信产业基金,CITIC Industry Fund,investor_name
+五岳资本,Wuyue Capital,investor_name
+微影资本,Weiying Capital,investor_name
+盛世景,Sheng Shijing,investor_name
+元禾控股,Yuanhe Holdings,investor_name
+海尔资本,Haier Capital,investor_name
+汉理资本,Hanli Capital,investor_name
+华兴新经济基金,Huaxing New Economy Fund,investor_name
+黑马基金,Dark Horse Fund,investor_name
+弘晖资本,Honghui Capital,investor_name
+北软天使基金,North Soft Angel Fund,investor_name
+唯猎资本,Only Hunting Capital,investor_name
+优势资本,Advantage capital,investor_name
+招商局创投,China Merchants Venture Capital,investor_name
+凯风创投,Kaifeng Ventures,investor_name
+汉能投资,Hanergy Investment,investor_name
+国投集团,SDIC,investor_name
+长江证券,Changjiang Securities,investor_name
+富士康,Foxconn,investor_name
+创享投资,Chuangxiang Investment,investor_name
+创新谷Innovalley,Innovation Valley Innovalley,investor_name
+高特佳,Gao Tejia,investor_name
+熊猫资本,Panda Capital,investor_name
+建银国际,CCB International,investor_name
+中兴创投,ZTE Venture Capital,investor_name
+招银国际资本,CMB International Capital,investor_name
+58同城,58 City,investor_name
+国信弘盛,Guoxin Hongsheng,investor_name
+科发资本,Kefa Capital,investor_name
+辰德资本,Chende Capital,investor_name
+磐谷创投,Iwagu Ventures,investor_name
+美团点评,Meituan Reviews,investor_name
+今日资本,Capital Today,investor_name
+时代伯乐,Times Bole,investor_name
+粤科金融,Yueke Finance,investor_name
+春晓资本（停止运营）,Chunxiao Capital (stopped operations),investor_name
+昆仑万维,Kunlun Wanwei,investor_name
+丹华资本,Danhua Capital,investor_name
+宁波天使投资引导基金,Ningbo Angel Investment Guidance Fund,investor_name
+东湖创投,East Lake Ventures,investor_name
+弘毅投资,Hony Capital,investor_name
+道生投资,Daosheng Investment,investor_name
+浩方创投,Haofang Ventures,investor_name
+西部资本,West Capital,investor_name
+鼎兴量子,Dingxing Quantum,investor_name
+东吴证券,Soochow Securities,investor_name
+中泰证券,Zhongtai Securities,investor_name
+亚商资本,Asia Business Capital,investor_name
+TCL创投,TCL Venture Capital,investor_name
+君盛投资,Junsheng Investment,investor_name
+正和岛投资,Zhenghe Island Investment,investor_name
+光线传媒,Light Media,investor_name
+东北证券,Northeast Securities,investor_name
+联新资本,Lianxin Capital,investor_name
+华登国际,Walden International,investor_name
+中国人寿,China Life Insurance,investor_name
+深圳高新投,Shenzhen High-tech Investment,investor_name
+华瓯创投,Huaou Venture Capital,investor_name
+零一创投,Zero One Ventures,investor_name
+德联资本,Delian Capital,investor_name
+远镜创投,TeleMirror Ventures,investor_name
+飞马旅,Pegasus Brigade,investor_name
+泽厚资本,Zehou Capital,investor_name
+尚势资本,Shangshi Capital,investor_name
+新龙脉资本,New Dragon Capital,investor_name
+坚果资本,Nut Capital,investor_name
+创客总部,Maker Headquarters,investor_name
+博将资本,Bojiang Capital,investor_name
+信天创投,Xintian Venture Capital,investor_name
+紫辉创投,Zihui Venture Capital,investor_name
+一创投资,Yichuang Investment,investor_name
+复星医药,Fosun Pharma,investor_name
+嘉御基金,Jiayu Fund,investor_name
+孝昌水木投资,Xiaochang Shuimu Investment,investor_name
+英特尔资本,Intel Capital,investor_name
+中关村发展集团,Zhongguancun Development Group,investor_name
+力鼎投资,Liding Investment,investor_name
+星瀚资本,Xinghan Capital,investor_name
+高捷资本,Gaojie Capital,investor_name
+汉富控股,Hanford Holdings,investor_name
+华软投资,Chinasoft Investment,investor_name
+国金证券,Guojin Securities,investor_name
+盈富泰克,Infotech,investor_name
+清研资本,Qingyan Capital,investor_name
+真顺基金,Zhenshun Fund,investor_name
+中国信达,China Cinda,investor_name
+青橙资本,Green Orange Capital,investor_name
+天神娱乐,Tenshin Entertainment,investor_name
+凯辉基金,Cathay Capital,investor_name
+芳晟基金,Fangsheng Fund,investor_name
+青锐创投,Qingrui Venture Capital,investor_name
+创世伙伴资本,Creation Partner Capital,investor_name
+乔景资本,Qiaojing Capital,investor_name
+中国长城资产,China Great Wall Assets,investor_name
+奥飞娱乐,Aofei Entertainment,investor_name
+广州证券,Guangzhou Securities,investor_name
+十维资本,Ten-dimensional Capital,investor_name
+合一资本,One Capital,investor_name
+天天投,Tiantiantou,investor_name
+聚源资本,Juyuan Capital,investor_name
+德迅投资,Dexun Investment,investor_name
+华谊兄弟,Huayi Brothers,investor_name
+上海伯藜投资管理有限公司,"Shanghai Birli Investment Management Co., Ltd.",investor_name
+易一天使,Yi Tianzhi,investor_name
+原子创投,Atomic Ventures,investor_name
+寒武创投,Cambrian Venture Capital,investor_name
+中金资本,CICC Capital,investor_name
+东兴证券,Dongxing Securities,investor_name
+广州基金,Guangzhou Fund,investor_name
+富坤创投,Fortune Ventures,investor_name
+中汇金,Zhonghuijin,investor_name
+长安私人资本,Changan Private Capital,investor_name
+凯盈资本,Kaiying Capital,investor_name
+中国文化产业投资基金,China Cultural Industry Investment Fund,investor_name
+乐视音乐,LeTV Music,investor_name
+小村资本,Small village capital,investor_name
+广发乾和,Guangfa Ganhe,investor_name
+千骥资本,Qianji Capital,investor_name
+苏河汇,Suhehui,investor_name
+西科天使基金,Sike Angel Fund,investor_name
+清控科创控股,Tsingkong Technology Innovation Holdings,investor_name
+挑战者资本,Challenger Capital,investor_name
+盈信资本,Yingxin Capital,investor_name
+安芙兰资本,Amphora Capital,investor_name
+纽信创投,Newson Ventures,investor_name
+领汇投资,The Link Investment,investor_name
+磐石资本,Rock Capital,investor_name
+水木资本,Mizuki Capital,investor_name
+科大讯飞,IFlytek,investor_name
+中融鼎新,Zhongrong Dingxin,investor_name
+澳银资本,Bank of Australia Capital,investor_name
+用友幸福投资,UFIDA Investment,investor_name
+不惑创投,Not confused about venture capital,investor_name
+DFJ德丰杰中国基金,DFJ China Fund,investor_name
+盈峰资本,Infore Capital,investor_name
+磐霖资本,Pan Lin Capital,investor_name
+晨晖创投,Chenhui Venture Capital,investor_name
+泰岳梧桐资本,Taiyue Wutong Capital,investor_name
+国药资本,Sinopharm Capital,investor_name
+云天使基金,Cloud Angel Fund,investor_name
+中文在线,Chinese online,investor_name
+海达投资,Haida Investment,investor_name
+协立投资,Association Investment,investor_name
+国家集成电路产业投资基金,National Integrated Circuit Industry Investment Fund,investor_name
+易车网,Bitauto,investor_name
+中欧基金,China Europe Fund,investor_name
+蓝象资本,Blue Elephant Capital,investor_name
+硅谷天堂,Silicon Valley Paradise,investor_name
+湖畔山南资本,Shannan Capital,investor_name
+朗科投资,Netac Investment,investor_name
+紫牛基金,Purple Bull Fund,investor_name
+山行资本,Shanxing Capital,investor_name
+乐搏资本,Lebo Capital,investor_name
+挚盈资本,Zhiying Capital,investor_name
+平安财智,Ping An Caizhi,investor_name
+光谷人才基金,Optics Valley Talent Fund,investor_name
+苏州高新创投,Suzhou High-tech Venture Capital,investor_name
+鲁信创投,Luxin Ventures,investor_name
+泰达科投,TEDA Tech,investor_name
+普思资本,Price Capital,investor_name
+上海久奕投资管理有限公司,"Shanghai Jiuyi Investment Management Co., Ltd.",investor_name
+新东方,New Oriental,investor_name
+雷雨资本,Thunderstorm Capital,investor_name
+朗程资本,Longcheng Capital,investor_name
+喔赢资本,Oh Win Capital,investor_name
+高新创投,High-tech Venture Capital,investor_name
+翊翎资本,Yi Ling Capital,investor_name
+和盟创投,Hemeng Ventures,investor_name
+顺德创业工场,Shunde Venture Workshop,investor_name
+湖北高投,Hubei Gaotou,investor_name
+远致投资,Yuanzhi Investment,investor_name
+中原证券,Centaline Securities,investor_name
+伯乐纵横投资,Bó Lè Investment,investor_name
+北汽产投,BAIC Industrial Investment,investor_name
+暴龙投资,Tyrannosaurus Investment,investor_name
+光大资本,Everbright Capital,investor_name
+知初资本,Zhichu Capital,investor_name
+集素资本,Jisu Capital,investor_name
+帮实资本,Help capital,investor_name
+嘉道谷投资,Kadao Valley Investment,investor_name
+壹诺创投,Yinuo Ventures,investor_name
+海通创意资本,Haitong Creative Capital,investor_name
+招商银行,China Merchants Bank,investor_name
+浙科投资,Zheke Investment,investor_name
+常州高新投,Changzhou High-tech Investment,investor_name
+中民投,CMIG,investor_name
+青山资本,Castle Peak Capital,investor_name
+凯泰资本,Kaitai Capital,investor_name
+盈科资本,Yingke Capital,investor_name
+海汇投资,Haihui Investment,investor_name
+StarVC,StarVC,investor_name
+星河互联,Galaxy Internet,investor_name
+中兴合创,ZTE Corporation,investor_name
+安赐资产管理有限公司,"Anci Asset Management Co., Ltd.",investor_name
+中海投资,China Overseas Investment,investor_name
+国投创新,SDIC Innovation,investor_name
+顺丰控股,SF Holdings,investor_name
+顺融资本,Shun Capital,investor_name
+博派资本,Autobot Capital,investor_name
+马力创投,Horsepower Ventures,investor_name
+东方汇富,Oriental Huifu,investor_name
+武岳峰资本,Wuyuefeng Capital,investor_name
+合鲸资本,Whale Capital,investor_name
+元生创投,Yuansheng Venture Capital,investor_name
+盛大集团,Shanda Group,investor_name
+银江智慧产业基金,Yinjiang Smart Industry Fund,investor_name
+大河创投,Dahe Ventures,investor_name
+心元资本,Heart Capital,investor_name
+华安证券,Huaan Securities,investor_name
+起源资本,Origin capital,investor_name
+网易资本,NetEase Capital,investor_name
+华软资本,ChinaSoft Capital,investor_name
+欢聚时代,Happy time,investor_name
+多牛资本,Bull Capital,investor_name
+海邦投资,Haibang Investment,investor_name
+正海资本,Zhenghai Capital,investor_name
+普洛斯,Prolos,investor_name
+金茂资本,Jin Mao Capital,investor_name
+红星美凯龙,Red Star Macalline,investor_name
+中国航天科工,China Aerospace Science and Industry,investor_name
+中国华融,China Huarong,investor_name
+融玺创投,Rongxi Venture Capital,investor_name
+浅石创投,Asahi Ventures,investor_name
+中关村兴业投资,Zhongguancun Industrial Investment,investor_name
+龙城英才创业投资引导基金,Dragon City Yingcai Venture Capital Fund,investor_name
+抱团创投,Baotuan Venture Capital,investor_name
+完美世界,a perfect world,investor_name
+建信资本,CCB Capital,investor_name
+爱奇艺,IQIYI,investor_name
+拙朴投资,Zhuopu Investment,investor_name
+君润资本,Junrun Capital,investor_name
+蓝色光标,Blue cursor,investor_name
+长江国弘投资,Changjiang Guohong Investment,investor_name
+天创资本,Tianchuang Capital,investor_name
+优客工场,Youke Workshop,investor_name
+华策影视,Huace Television,investor_name
+长策投资,Changce Investment,investor_name
+江苏高投,Jiangsu High Investment,investor_name
+六禾创投,Liuhe Ventures,investor_name
+京东,Jingdong,investor_name
+创势资本,Venture Capital,investor_name
+众海投资,Zhonghai Investment,investor_name
+湖南海捷投资有限公司,"Hunan Haijie Investment Co., Ltd.",investor_name
+汇财私人资本,Forex Private Capital,investor_name
+银河系创投,Galaxy Ventures,investor_name
+前海开源,Qianhai Open Source,investor_name
+正轩投资,Zhengxuan Investment,investor_name
+维思资本,Wise Capital,investor_name
+金茂投资,Jin Mao Investment,investor_name
+华兴创投,Huaxing Venture Capital,investor_name
+联想控股,Legend Holdings,investor_name
+清华控股有限公司,Tsinghua Holdings Limited,investor_name
+杉杉创投,Shanshan Ventures,investor_name
+中国国新,China Guoxin,investor_name
+国资管理中心,State-owned Assets Management Center,investor_name
+新进创投,New Venture Capital,investor_name
+成都高投,Chengdu High Investment,investor_name
+携程,Ctrip,investor_name
+上海联和投资,Shanghai Union Investment,investor_name
+陶石资本,Tao Shi Capital,investor_name
+国泰创投,Cathay Pacific Ventures,investor_name
+久银投资,Jiuyin Investment,investor_name
+中国宝武,China Baowu,investor_name
+海航资本,HNA Capital,investor_name
+温氏投资,Wen's Investment,investor_name
+新希望集团,New Hope Group,investor_name
+协同创新,Collaborative Innovation,investor_name
+盛宇投资,Shengyu Investment,investor_name
+同方厚持,Tongfang thick,investor_name
+用友,UF,investor_name
+国开发展基金,China Development Fund,investor_name
+紫光集团,Ziguang Group,investor_name
+知卓资本,Zhizhuo Capital,investor_name
+金葵花资本,Golden Sunflower Capital,investor_name
+十方创投,Shifang Venture Capital,investor_name
+追远创投,Chasing Venture Capital,investor_name
+中国诚通,China Chengtong,investor_name
+点亮资本,Light up capital,investor_name
+张江火炬创投,Zhangjiang Torch Venture Capital,investor_name
+嘉实资本,Harvest Capital,investor_name
+乐游资本,Leyou Capital,investor_name
+秉鸿资本,Binghong Capital,investor_name
+国富源投资,Guofuyuan Investment,investor_name
+海丰至诚,SITC sincere,investor_name
+游族网络,Youzu Network,investor_name
+上海创丰创业投资管理有限公司,"Shanghai Chuangfeng Venture Capital Management Co., Ltd.",investor_name
+浙江金控资本,Zhejiang Financial Holding Capital,investor_name
+易津资本,Yijin Capital,investor_name
+中信国安集团,CITIC Guoan Group,investor_name
+朗盛投资,LANXESS Investment,investor_name
+勤桦投资,Qinhua Investment,investor_name
+合肥高投,Hefei High Investment,investor_name
+合肥创投,Hefei Venture Capital,investor_name
+龙翌资本,Long Yi Capital,investor_name
+天亿投资,Tianyi Investment,investor_name
+中国交建,China Communications Construction,investor_name
+京育基金,Beijing Education Fund,investor_name
+苏大天宫创投,Su Da Tiangong Venture Capital,investor_name
+聚募网,JuFei,investor_name
+恒生电子,Hang Seng Electronics,investor_name
+哔哩哔哩,Bilibili,investor_name
+邦明资本,Bangming Capital,investor_name
+成都技术转移集团,Chengdu Technology Transfer Group,investor_name
+Plug and Play Ch...,Plug and Play Ch...,investor_name
+星火金融,Spark Finance,investor_name
+中航信托,AVIC Trust,investor_name
+杭州好望角投资管理有限公司,"Hangzhou Cape of Good Hope Investment Management Co., Ltd.",investor_name
+上投摩根,Shanghai Investment Morgan,investor_name
+紫金科创,Zijin Tech,investor_name
+启迪控股,TusHoldings,investor_name
+中国石油化工,Sinopec,investor_name
+亦庄国投,Yizhuang State Investment,investor_name
+深投控,Shenzhen Investment Control,investor_name
+华耀资本,Huayao Capital,investor_name
+赛马资本,Horse Racing Capital,investor_name
+华闻传媒,Huawen Media,investor_name
+东方明珠,Pearl of the Orient,investor_name
+四川发展,Sichuan Development,investor_name
+浙数文化,Zhejiang Culture,investor_name
+劲邦资本,Jinbang Capital,investor_name
+长安信托,Changan Trust,investor_name
+全国社保基金,National Social Security Fund,investor_name
+安元基金,Anyuan Fund,investor_name
+掌门科技,Head Technology,investor_name
+浙江浙大友创投资管理有限公司,"Zhejiang Zhejiang University Youchuang Investment Management Co., Ltd.",investor_name
+中和资本,Zhonghe Capital,investor_name
+七匹狼创投,Sevenwolves Venture Capital,investor_name
+众合创投,Zhonghe Venture Capital,investor_name
+字节跳动,Byte beating,investor_name
+招商启航资本,China Merchants Qihang Capital,investor_name
+澎湃资本,Surging Capital,investor_name
+中融国际信托,Zhongrong International Trust,investor_name
+恺英网络,Kaiying Network,investor_name
+中节能集团,China Energy Conservation Group,investor_name
+高樟资本,Gao Zhang Capital,investor_name
+天津长城基金,Tianjin Great Wall Fund,investor_name
+邦信资产,Bangxin Assets,investor_name
+上海创业接力基金,Shanghai Venture Relay Fund,investor_name
+启明星辰,Venus Star,investor_name
+天奇创投,Tianqi Ventures,investor_name
+阿里巴巴创业者基金,Alibaba Entrepreneurs Fund,investor_name
+星辉互动娱乐,Xinghui Interactive Entertainment,investor_name
+天九投资,Tianjiu Investment,investor_name
+聚秀资本,Juxiu Capital,investor_name
+中国农发重点建设基金,China Agricultural Development Key Construction Fund,investor_name
+海南控股,Hainan Holdings,investor_name
+恒健投资,Hengjian Investment,investor_name
+中钰资本,Zhongyu Capital,investor_name
+科力投资,Keli Investment,investor_name
+张家港金茂创投,Zhangjiagang Jinmao Venture Capital,investor_name
+航天投资,Space investment,investor_name
+立思辰,Li Sichen,investor_name
+极豆资本,Jidou Capital,investor_name
+IDH创展谷,IDH Innovation Valley,investor_name
+开来资本,Open capital,investor_name
+前海人寿保险,Qianhai Life Insurance,investor_name
+河南投资集团,Henan Investment Group,investor_name
+光大银行,Everbright Bank,investor_name
+安徽省高新投,Anhui High-tech Investment,investor_name
+南京市产业发展基金,Nanjing Industrial Development Fund,investor_name
+中科创客学院,China Science and Technology Maker Academy,investor_name
+领军创投,Leading Venture Capital,investor_name
+上海乐奕创业投资中心(有限合伙),Shanghai Leyi Venture Capital Center (Limited Partnership),investor_name
+之初创投,Startup investment,investor_name
+鑫元基金,Xinyuan Fund,investor_name
+中大创投,Zhongda Venture Capital,investor_name
+零度资本,Zero capital,investor_name
