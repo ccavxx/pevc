@@ -7,7 +7,7 @@ This is a python project to scrape and show the co-investment networks of PE/VC 
 
 The directory `/scripts` includes scripts for data scraping and processing. The results are stored in `/data`.
 
-The directory `/gephi` contains Gephi files for data visualization. [Gephi](https://gephi.org/) is a powerful software to visualize network-structured data. An interactive network HTML page is output to `/interactive_network`.
+The directory `/gephi` contains Gephi files for data visualization. [Gephi](https://gephi.org/) is a powerful software to visualize network-structured data. An interactive network HTML page is output to `gephi/interactive_networks`.
 
 ## Steps
 
@@ -46,4 +46,8 @@ Eventually, we change the column names according to the requirements by Gephi, a
 
 ### Data Visualization
 
-We import the nodes list and the edges list to Gephi, run algorithms for appropriate visualization, and output a static picture and an HTML file of [interactive networks](dennissxz.github.io/pevc/interactive_networks).
+We import the nodes list and the edges list to Gephi, run algorithms for appropriate visualization, and output an HTML file of [interactive networks](https://dennissxz.github.io/pevc/gephi/interactive_networks/).
+
+<div  align="center">    
+<img src="gephi/nw_pic.png" width = "80%" alt="network_static" align=center />
+</div>
