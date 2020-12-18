@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "denniszheng.github.io",
+    "text": "Dennis Zheng"
+  },
+  "text": {
+    "more": "This interactive visualization is powered by Oxford Internet Institute.\n",
+    "intro": "Each node is an investor. \nEash directed curve stands for a leader-follower relation between two investors \nin investment events. The self-loop of a node represents the sole-investment events, \ni.e. no followers. A node is larger and brighter when it has more followers. \nCooperation is more frequent among clustered nodes while rare among separated \nnodes.We can easily see a cluster of foreign funds: IDG, Sequoia, Matrix Partners, \nfar from which there is a cluster of funds with a government leader Shenzhen Capital Group. \nThere are more interesting insights waiting for us to explore.",
+    "title": "Cooperation Relations of Private Equities and Venture Capitals in China from 2010 to 2019"
+  },
+  "legend": {
+    "edgeLabel": "co-invested",
+    "colorLabel": "a node\u0027s color is brighter if it co-invested with more investors",
+    "nodeLabel": "a PE/VC investor"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
