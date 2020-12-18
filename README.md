@@ -46,4 +46,4 @@ Eventually, we change the column names according to the requirements by Gephi, a
 
 ### Data Visualization
 
-We import the nodes list and the edges list to Gephi, run algorithms for appropriate visualization, and output a static picture and an HTML file of [interactive networks](dennissxz.github.io/pevc/interactive_network).
+We import the nodes list and the edges list to Gephi, run algorithms for appropriate visualization, and output a static picture and an HTML file of [interactive networks](dennissxz.github.io/pevc/interactive_networks).
